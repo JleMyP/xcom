@@ -1,0 +1,3 @@
+title=xcom
+author=my
+orientation=landscape
